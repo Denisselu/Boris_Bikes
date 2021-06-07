@@ -41,4 +41,4 @@ I'd like to see if a bike is working.
 | Bike | is working? |
 
 ## Diagram
-![Diagram] (https://github.com/Denisselu/Boris_Bikes/blob/master/Diagram.png)
+![Diagram](https://github.com/Denisselu/Boris_Bikes/blob/master/Diagram.png)
