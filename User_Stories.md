@@ -41,4 +41,4 @@ I'd like to see if a bike is working.
 | Bike | is working? |
 
 ## Diagram
-![Diagram] (/Pictures/Diagram.png)
+![Diagram] (Diagram.png)
