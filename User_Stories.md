@@ -8,6 +8,7 @@ I'd like a docking station to release a bike.
   * person
   * bike
   * docking station
+  
 *Verbs*
   * use
   * release
@@ -27,6 +28,7 @@ I'd like to see if a bike is working.
 *Nouns*
   * person
   * good bike
+ 
 *Verbs*
   * use
   * see
@@ -39,4 +41,4 @@ I'd like to see if a bike is working.
 | Bike | is working? |
 
 ## Diagram
-! [Diagram] (/home/allison/Pictures/Diagram.png)
+! [Diagram] (/Pictures/Diagram.png)
