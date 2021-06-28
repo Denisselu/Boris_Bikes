@@ -1,13 +1,14 @@
 ## User Story #1
-As a person,
+*As a person,
 So that I can use a bike,
-I'd like a docking station to release a bike.
+I'd like a docking station to release a bike.*
 
 ### Nouns and verbs
 *Nouns*
   * person
   * bike
   * docking station
+  
 *Verbs*
   * use
   * release
@@ -19,14 +20,15 @@ I'd like a docking station to release a bike.
 | DockingStation | release_bike |
 
 ## User Story #2
-As a person, 
+*As a person, 
 So that I can use a good bike,
-I'd like to see if a bike is working.
+I'd like to see if a bike is working.*
 
 ## Nouns and verbs
 *Nouns*
   * person
   * good bike
+ 
 *Verbs*
   * use
   * see
@@ -40,5 +42,4 @@ I'd like to see if a bike is working.
 | DockingStation | release_bike |
 
 ## Diagram
-
 ![Diagram](https://github.com/Denisselu/Boris_Bikes/blob/master/Diagram.png)
